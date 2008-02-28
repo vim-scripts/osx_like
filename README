@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2170
+
+This color scheme is derived from the excellent sienna color scheme with some adjustments: There is only one color set for light background, and it looks best under gvim.
+I adjusted almost only the colors for line numbers, folding and status bar. A screen shot can be found at http://img443.imageshack.us/my.php?image=osxlikejx7.gif
+
+(I am using GTK and Metacity themes from the Mac4Lin project. See http://sourceforge.net/projects/mac4lin )
+
